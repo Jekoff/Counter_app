@@ -1,0 +1,19 @@
+body{
+    background: #ff6b35;
+}
+
+.container{
+    border: 1px solid black;
+
+    width: 95%;
+    height: 100vh;
+    margin:  auto;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.counter{
+    border: 5px solid black
+    width: 600px;
+    height: 300px;
+}
